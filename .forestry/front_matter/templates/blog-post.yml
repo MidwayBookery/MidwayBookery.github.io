@@ -5,24 +5,40 @@ fields:
 - type: datetime
   name: date
   label: date
+  hidden: true
+  default: now
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: boolean
   name: comments
-  label: comments
+  label: Comments
+  description: Decide whether you want comments enabled on this post.
+  default: true
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: text
   name: main_content
-  label: main_content
+  hidden: false
+  label: Snippet
+  description: A basic overview of what the blog post is about.
 - type: list
   name: categories
-  label: categories
+  label: Categories
+  config:
+    use_select: false
 - type: text
   name: author
-  label: author
+  label: Author
+  description: Author's name.
+  config:
+    required: true
 - type: file
   name: image
-  label: image
+  label: Author Image
+  description: An image of the author of the post to accompany the name.
