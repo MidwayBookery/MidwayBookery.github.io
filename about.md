@@ -7,7 +7,6 @@ layout: default
 <div class="topnav-spacer"></div>
 <div class="index-sections content">
   <div class="section">
-    <img src="/assets/wireframe2.png" class="mobile-img">
     <h2 class="purple-header">About The Bookery</h2>
     <p>{{site.description}}</p>
   </div>
