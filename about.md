@@ -26,7 +26,7 @@ layout: default
       <div style="background-image: url({{ "/assets/meggie.jpg" | relative_url }});" class="about-image"></div>
       <div class="about-text">
         <h3>Meggie Morris</h3>
-        <h4>Co-Leader and Editor</h4>
+        <h4>Co-Founder and Editor</h4>
         <p>Hello!! My name is Meggie Morris. I’m currently a junior at Midway High School. Some things I’m in involved in is Track and Field, Pals, Ap/dual enrollment, and youth group at Antioch community church. I’m super excited to meet everybody who wants to join the Bookery!! I hope this can be a fun experience for everyone! I will do my best to be at most meetings but due to my dedication to track and field, there might be occasional times where I might have to be gone for the hours we will meet. Other than that, I can’t wait to see what this year brings forth!!! :)</p>
         <p>“The more you read the more things you will know, the more that you learn, the more places you’ll go.” - Theodor Geisel</p>
       </div>
