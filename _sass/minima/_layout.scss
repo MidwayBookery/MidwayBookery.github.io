@@ -242,9 +242,6 @@ input[type=submit] {
   color: #750384;
   font-family: 'IBM Plex Mono', sans-serif;
 }
-.content {
-  padding: .5rem .75rem;
-}
 
 // Misc
 
@@ -439,6 +436,11 @@ display: flex;
 }
 
 @media screen and (min-width: 850px) {
+  .section {
+    width: unset;
+    margin: 0 15vw;
+  }
+
   /* Place text in the middle of the image */
   .hero-image {
     display: grid;
