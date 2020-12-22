@@ -28,10 +28,11 @@ fields:
   label: Snippet
   description: A basic overview of what the blog post is about.
 - type: list
-  name: categories
+  name: tags
   label: Categories
   config:
     use_select: false
+    min: 3
 - type: text
   name: author
   label: Author
