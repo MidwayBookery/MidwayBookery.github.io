@@ -12,7 +12,7 @@ layout: default
   </div>
 
   <div class="section" style="margin-bottom: 3rem">
-    <h2 class="purple-header">Our Team</h2>
+    <h2 class="purple-header">Who We Are</h2>
     <div class="about-wrapper">
       <div style="background-image: url({{ "/assets/zach.jpg" | relative_url }});" class="about-image"></div>
       <div class="about-text">
