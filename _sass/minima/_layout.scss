@@ -80,13 +80,6 @@ input[type=submit] {
   font-size: $small-font-size;
 }
 
-.post {
-  border: 2px solid black;
-  border-radius: 5px;
-  padding: 1em 2em;
-  width: 47%;
-}
-
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
