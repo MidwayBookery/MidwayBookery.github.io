@@ -467,7 +467,16 @@ display: flex;
   }
 }
 
+.mobile-img {
+  display: none;
+  width: 125px;
+}
+
 @media screen and (max-width: 850px) {
+  .mobile-img {
+    display: inline-block;
+  }
+
   .hero-image {
     padding: 25% 2em;
   }
