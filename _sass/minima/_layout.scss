@@ -386,12 +386,14 @@ input:checked ~ .tab-content {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  display: relative;
+  display: inline-block;
 }
 
 .hero-logo {
-  display: none;
+  filter: invert(1);
   width: 300px;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Place text in the middle of the image */
@@ -446,9 +448,7 @@ display: flex;
   }
 
   .hero-logo {
-    filter: invert(1);
     display: inline-block;
-    margin: 0 auto;
     grid-column-start: 3;
     grid-column-end: 6;
     grid-row-start: 3;
