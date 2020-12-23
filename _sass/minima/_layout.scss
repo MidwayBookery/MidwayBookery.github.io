@@ -1,5 +1,5 @@
 h1, h2, h3 {
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: $title-font-family, sans-serif;
 }
 
 #mc_embed_signup {
@@ -98,7 +98,7 @@ input[type=submit] {
 
 .post-list-heading {
   @include relative-font-size(1.75);
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: $title-font-family, sans-serif;
 }
 
 .post-list {
@@ -121,7 +121,7 @@ input[type=submit] {
 .post-link {
   display: block;
   @include relative-font-size(1.5);
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: $title-font-family, sans-serif;
 }
 
 
@@ -137,7 +137,7 @@ input[type=submit] {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: $title-font-family, sans-serif;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -184,7 +184,7 @@ input[type=submit] {
 }
 .purple-header {
   color: #750384;
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: $title-font-family, sans-serif;
 }
 
 // Misc
@@ -339,6 +339,7 @@ input:checked ~ .tab-content {
 
 /* Place text in the middle of the image */
 .hero-title, .hero-description {
+  font-family: $title-font-family;
   text-align: center;
   position: relative;
   margin: auto 0;

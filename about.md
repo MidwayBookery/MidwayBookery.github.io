@@ -23,7 +23,7 @@ layout: default
       </div>
     </div>
     <div class="about-wrapper" style="flex-direction: row-reverse;">
-      <div style="background-image: url({{ "/assets/meggie.jpg" | relative_url }});" class="about-image"></div>
+      <div style="background-image: url({{ "/assets/meggie.jpg" | relative_url }});background-position: 50% 30%;" class="about-image"></div>
       <div class="about-text">
         <h3>Meggie Morris</h3>
         <h4>Co-Founder and Editor</h4>

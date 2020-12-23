@@ -1,9 +1,4 @@
 @media screen and (min-width: 850px) {
-  .section {
-    width: unset;
-    margin: 0 15vw;
-  }
-
   /* Place text in the middle of the image */
   .hero-image {
     display: grid;
@@ -52,9 +47,6 @@
   .shownlink {
     display: none;
   }
-  .post {
-    width: 100%;
-  }
 }
 
 @media screen and (max-width: 850px) {
@@ -92,11 +84,6 @@
 
   .content {
     text-align: center;
-  }
-
-  
-  p, .logo, a {
-    font-size: 4.5vw;
   }
   .social-btns {
     display: -webkit-box;
