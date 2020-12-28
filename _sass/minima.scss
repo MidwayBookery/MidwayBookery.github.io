@@ -1,5 +1,4 @@
 @charset "utf-8";
-/*@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@600');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
@@ -73,6 +72,7 @@ $on-laptop:        850px !default;
   "minima/layout",
   "custom/header",
   "custom/animations",
+  "custom/calendar",
   "custom/media",
   "minima/syntax-highlighting"
 ;

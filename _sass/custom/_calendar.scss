@@ -1,0 +1,112 @@
+.calendar {
+  width: 80vw;
+  margin: 4em auto;
+  border-radius: 1em;
+  overflow: hidden;
+
+  ul {
+    list-style-type: none;
+    margin-left: 0!important;
+  }
+
+  .bottom {
+    width: 100%;
+    background: #750384;
+    height: 50px;
+  }
+
+  /* Month header */
+  .month {
+    padding: 70px 25px;
+    width: 100%;
+    background: #750384;
+    text-align: center;
+
+    /* Month list */
+    ul {
+      margin: 0;
+      padding: 0;
+
+      li {
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+      }
+    }
+    
+    /* Previous button inside month header */
+    .prev {
+      float: left;
+      padding-top: 10px;
+    }
+
+    /* Next button */
+    .next {
+      float: right;
+      padding-top: 10px;
+    }
+  }
+
+  /* Weekdays (Mon-Sun) */
+  .weekdays {
+    margin: 0;
+    padding: 10px 5px;
+    background-color:#ddd;
+    display: flex;
+    justify-content: space-around;
+
+    li {
+      display: inline-block;
+      width: 12vw;
+      color: #666;
+      text-align: center;
+    }
+  }
+
+  /* Days (1-31) */
+  .days {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    background: #eee;
+    padding: 5px;
+    margin: 0;
+
+    .filler {
+      width: 10vw!important;
+      min-height: 0!important;
+      height: 0!important;
+      background: none;
+      padding: 0;
+    }
+
+    li {
+      list-style-type: none;
+      display: inline-block;
+      width: 10vw;
+      min-height: 10vw;
+      border-radius: 5px;
+      text-align: center;
+      margin: 5px;
+      font-size:12px;
+      background: white;
+      color: #777;
+      overflow: hidden;
+
+      span {
+        width: 100%;
+        display: inline-block;
+        padding: 5px;
+        background: grey;
+        color: white;
+      }
+
+      /* Highlight the "current" day */
+      .active {
+        background: #750384;
+        color: white !important
+      }
+    }
+  }
+}

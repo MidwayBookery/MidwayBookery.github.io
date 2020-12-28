@@ -28,7 +28,8 @@ h6              { font-size: 1.25em; margin: 1.67em 0 }
  */
 html, body {
   min-height: 100%;
-  width: 100%;
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 
@@ -128,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a {
+a:not(>.fc) {
   color: #4d82ff;
   transition: 0.2s;
 
@@ -338,7 +339,7 @@ pre {
 /**
  * Tables
  */
-table {
+table:not(>.fc)  {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;

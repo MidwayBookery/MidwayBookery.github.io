@@ -11,9 +11,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-  ambassadors:
-    title: Ambassadors
+  events:
     output: true
+    permalink: /events/:path/
+    title: Events
 tagline: 'Dedicated to the creation, consumption, admiration, and discussion of literature.'
 description: 'Dedicated to the creation, consumption, admiration, and discussion of literature. Striving to be the perfect home for all Bibliophiles, Bibliophages, Logophiles, and anyone who loves the written format, we provide a hub for tons of book-related content and conversations! We also host various events, such as the Read-a-Thon Weekend and Reading Wars.'
 about: 'Dedicated to the creation, consumption, admiration, and discussion of literature. Striving to be the perfect home for all Bibliophiles, Bibliophages, Logophiles, and anyone who loves the written format, we provide a hub for tons of book-related content and conversations!'
@@ -26,13 +27,5 @@ twitter: ''
 youtube: ''
 header_pages:
 - index.md
-- about.md
-- articles.md
 - calendar.md
 theme: minima
-plugins:
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-paginate
-paginate: 5
-paginate_path: "/articles/page:num/"

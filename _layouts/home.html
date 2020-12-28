@@ -10,40 +10,13 @@ layout: default
         <!--<div id="scroll"><span id="scrolldown" class="arrow"><span></span>Scroll</span></div>-->
     </div>
     <div class="about-us index-sections content section" id="firstsection">
-        <h2 class='purple-header'>Who are we?</h2>
+        <h2 class='purple-header'>About Us</h2>
         <p>{{- site.about | escape -}}</p>
+        <p>Our club's name and branding stem from an online community of the same name. It was founded by Zachary Montgomery</p>
     </div>
     <div class="about-us index-sections content section">
         <h2 class='purple-header'>Get Involved</h2>
         <p>We meet weekly in the library, from 4:15 to 4:45 to discuss what we've read that week. Our tastes are widely varied and we choose a different book for every month, along with plenty of fun events all throughout the month. Come to the library and join us!</p>
         <p>Want a sneak peak into what's going on right now? Take a look at our <a class="btn instagram"  rel="noopener" rel="noreferrer" href="{{ site.instagram | escape }}" target="_blank">Instagram</a> for the latest from us.</p>
-    </div>
-    <div class="about-us index-sections content section">
-        <h2 class="purple-header">Get the Latest</h2>
-        {%- if site.posts.size > 0 -%}
-        <h2 class="post-list-heading">Articles</h2>
-        <p>We post about books and other various literature-related topics on our blog! Check us out!</p>
-        <ul class="post-list" style="display: -webkit-box;
-display: -ms-flexbox;
-display: -webkit-flex;
-display: flex;justify-content: space-between;flex-wrap:wrap">
-            {% assign sorted = site.posts | reverse %}
-            {%- for post in sorted limit:2 -%}
-            <li class="post">
-                <h3>
-                    <a class="post-link" href="{{ post.url | relative_url }}">
-                        {{ post.title | escape }}
-                    </a>
-                </h3>
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <p><em>By {{post.author}} on {{ post.date | date: date_format}}</em></p>
-                <p>{{ post.main_content }}</p>
-            </li>
-            {%- endfor -%}
-        </ul>
-        {% else %}
-        <div>There's nothing here! Check back later.</div>
-        {% endif %}
-        {%- include mailchimp.html -%}
     </div>
 </div>

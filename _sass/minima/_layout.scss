@@ -349,7 +349,7 @@ input:checked ~ .tab-content {
 }
 
 .section {
-  width: 65vw;
+  width: 70vw;
   margin: auto;
 }
 
@@ -592,28 +592,6 @@ display: flex;
     opacity: 0;
   }
 }*/
-
-.pagination {
-  text-align: center;
-  margin: auto;
-  width: 50vw;
-  display: -webkit-box;
-display: -ms-flexbox;
-display: -webkit-flex;
-display: flex;
-  flex-direction: column;
-  justify-content: center;
-  
-  .links {
-    width: 50%;
-    margin: 0 auto 2em auto;
-    display: -webkit-box;
-display: -ms-flexbox;
-display: -webkit-flex;
-display: flex;
-    justify-content: space-around;
-  }
-}
 
 .sr {
   position: absolute;
