@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://bookerycommunity.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://bookerycommunity.com//" rel="alternate" type="text/html" /><updated>2020-12-28T20:28:48+00:00</updated><id>https://bookerycommunity.com//feed.xml</id><title type="html">The Bookery</title><subtitle>Dedicated to the creation, consumption, admiration, and discussion of literature. Striving to be the perfect home for all Bibliophiles, Bibliophages, Logophiles, and anyone who loves the written format, we provide a hub for tons of book-related content and conversations! We also host various events, such as the Read-a-Thon Weekend and Reading Wars.</subtitle><entry><title type="html">CMS Test</title><link href="https://bookerycommunity.com//2020/11/21/cms-test.html" rel="alternate" type="text/html" title="CMS Test" /><published>2020-11-21T21:24:13+00:00</published><updated>2020-11-21T21:24:13+00:00</updated><id>https://bookerycommunity.com//2020/11/21/cms-test</id><content type="html" xml:base="https://bookerycommunity.com//2020/11/21/cms-test.html">&lt;p&gt;This is a test of the CMS editor, and various features surrounding the blog’s functionality.&lt;/p&gt;
+
+&lt;h1 id=&quot;big-text&quot;&gt;Big text&lt;/h1&gt;
+
+&lt;h2 id=&quot;slightly-smaller-text&quot;&gt;Slightly smaller text&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Italic&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://google.com/&quot; title=&quot;Google&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in accumsan ante. Donec ultrices elit viverra aliquam tristique. Nunc ultricies sagittis commodo. Nulla nec eros sit amet odio molestie molestie nec in augue. Aliquam rhoncus arcu sit amet erat faucibus venenatis a ac augue. Nullam ac gravida metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et tellus vel ipsum commodo molestie. Donec mollis nisi vitae faucibus commodo. Vivamus felis nunc, molestie eget tellus non, convallis placerat mi. Morbi semper turpis in ligula posuere, facilisis luctus odio vehicula. Mauris nisl mi, cursus quis nulla vitae, efficitur convallis turpis. Cras condimentum enim in massa vulputate, vitae aliquet dui consectetur. Aenean tincidunt felis a nunc maximus, interdum efficitur dolor maximus. Nulla augue ante, vestibulum quis lectus a, maximus feugiat arcu.&lt;/p&gt;
+
+&lt;p&gt;Curabitur feugiat enim tempus leo porttitor ultricies. Aenean tincidunt felis a odio bibendum ullamcorper. Etiam vehicula vitae erat et congue. Donec venenatis ultricies interdum. Vestibulum eros urna, interdum molestie nisi ac, viverra finibus ante. Suspendisse dignissim placerat vulputate. Mauris fringilla orci nec suscipit cursus. Nullam ultricies sagittis risus, non porta lectus maximus vitae. Pellentesque commodo tellus urna, in finibus lectus tristique mattis. Quisque non dictum leo. Morbi eros ligula, iaculis at tincidunt at, euismod nec ex.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum in porttitor erat. Etiam ut elementum velit, id facilisis elit. In dignissim metus at urna dictum, egestas iaculis arcu molestie. Pellentesque a lorem a est venenatis fringilla non sed lectus. Integer scelerisque cursus nunc, non porttitor quam iaculis id. Suspendisse sollicitudin, nisl non vestibulum fringilla, libero ligula eleifend nunc, quis vulputate mauris magna ut diam. Praesent odio felis, posuere eget quam eu, iaculis lobortis lacus. Curabitur hendrerit, elit quis euismod auctor, massa urna suscipit justo, sit amet posuere ex tortor id mauris. Nullam luctus enim quam, id euismod est elementum et. Quisque id nibh scelerisque, vulputate felis placerat, facilisis turpis. Cras feugiat congue iaculis. Etiam rhoncus sagittis molestie. Sed facilisis, arcu et convallis pharetra, purus ex condimentum sapien, nec dapibus leo justo non erat. Donec eget volutpat turpis. Mauris egestas aliquet eros at pretium. Morbi ultricies nec arcu at pellentesque.&lt;/p&gt;
+
+&lt;p&gt;Ut erat ligula, vehicula a pretium quis, tristique sed dolor. Quisque et leo ligula. Proin luctus varius ligula id ullamcorper. Ut gravida ligula quam, a facilisis tortor varius sit amet. Etiam ante sapien, commodo sed leo a, vehicula condimentum nulla. Aliquam vitae rutrum quam. Aenean iaculis ipsum orci, at faucibus erat eleifend ac. Cras a mollis urna, non mollis risus. Proin sit amet consectetur magna, mollis rutrum ipsum. Ut fermentum leo nunc, in pharetra erat lacinia at. Vivamus sit amet pulvinar ex.&lt;/p&gt;
+
+&lt;p&gt;Integer non ipsum justo. Sed non tortor ligula. Morbi vel urna hendrerit, placerat diam et, scelerisque lorem. Fusce commodo, lacus nec cursus elementum, tellus nulla volutpat nibh, non vehicula lectus mi nec leo. Sed eu nulla eu urna imperdiet lobortis vitae ac massa. Donec tincidunt urna eget erat elementum, sit amet pulvinar nisl scelerisque. Curabitur quis neque ex. Nam volutpat sit amet nibh eget auctor. Cras tincidunt tempor risus, ac porttitor justo gravida at. Phasellus a mauris fringilla, scelerisque tortor at, mattis dolor. Maecenas sit amet elit imperdiet, euismod ante quis, vehicula nibh.&lt;/p&gt;
+
+&lt;p&gt;Donec nec eleifend elit. Nam a justo sed ligula congue auctor. Nulla facilisi. Morbi tempor tristique pharetra. Curabitur consectetur ante eu purus pretium, at scelerisque dui ultricies. In nec lacus lectus. Integer porta, sem nec dapibus tristique, nunc arcu posuere mauris, ac mattis ligula magna eget risus.&lt;/p&gt;
+
+&lt;p&gt;Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas et finibus dolor. Cras mollis lacus nec tortor cursus, vitae aliquam tellus tempus. Vestibulum volutpat egestas diam mattis rutrum. Vivamus nulla leo, condimentum sit amet porta et, ultricies sit amet orci. In aliquet quam ut magna semper malesuada. Mauris fringilla rhoncus velit. Quisque euismod volutpat felis, in volutpat turpis vehicula et. Sed varius, velit eu sagittis mollis, orci dui malesuada mauris, ac ullamcorper augue urna non dolor. Vivamus eu tellus quis risus finibus egestas vitae nec ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean nec tortor eu diam ornare viverra. Sed sed turpis sodales, viverra est vel, euismod erat.&lt;/p&gt;
+
+&lt;p&gt;Etiam eget massa ipsum. Pellentesque vitae sapien erat. Donec eu condimentum erat. Donec tellus mauris, dapibus quis nibh a, venenatis pretium odio. Maecenas orci diam, facilisis vel dictum pulvinar, pretium sed mi. Etiam a fringilla lorem, at hendrerit sem. Mauris orci enim, consequat sit amet tortor eget, malesuada interdum lorem. Vivamus convallis libero eget lectus commodo, convallis tincidunt mi vehicula. Maecenas eget erat sit amet erat maximus imperdiet sed id tortor.&lt;/p&gt;
+
+&lt;p&gt;Curabitur nec orci et quam pharetra pulvinar vitae eu nisi. Donec tortor justo, vulputate in velit at, gravida blandit eros. Cras nec mi tristique, ultrices justo vel, eleifend nisl. Morbi maximus lectus et velit interdum, vel consectetur est venenatis. Integer vel mauris vel nibh auctor congue. Vestibulum tempor sagittis convallis. Etiam eget felis in neque semper ullamcorper. Quisque vestibulum auctor risus. Cras vehicula ornare justo, mattis fermentum massa condimentum eu. Nam eget lorem eget arcu rutrum maximus in eu tortor. Nam eget dictum odio. Quisque nec felis at ipsum rutrum dignissim. Ut interdum arcu eu pulvinar porttitor. Cras sit amet felis tempor, ullamcorper ipsum nec, suscipit lorem.&lt;/p&gt;
+
+&lt;p&gt;Nunc placerat diam nec mauris lacinia volutpat quis quis nibh. Donec risus velit, viverra sed auctor vel, facilisis vitae nisi. Morbi fringilla tortor sollicitudin nisi eleifend blandit. Donec gravida, diam quis egestas interdum, metus metus ultrices velit, vel mattis lectus lorem at sapien. Sed convallis sit amet felis in fermentum. Duis felis erat, porttitor ut posuere nec, sodales a ipsum. Duis tristique ante elit, eget venenatis ex maximus in. Nullam sit amet mattis velit. Donec ac dignissim velit. Nulla dapibus ipsum odio, in euismod lorem fermentum eu. Sed vel justo dapibus, laoreet velit non, convallis justo. Duis maximus finibus massa eget hendrerit. Cras ac gravida quam. Praesent volutpat fermentum leo, eu lobortis quam egestas id. Duis non felis sit amet dolor bibendum pharetra. Suspendisse ultrices ante nec tristique ultrices.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/matthew-gonzalez-qvbpxygzzwg-unsplash.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List&lt;/li&gt;
+  &lt;li&gt;Another list&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Another list&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &amp;lt;div class=&quot;index-sections content section&quot;&amp;gt;
+     &amp;lt;div class=&quot;topnav-spacer&quot;&amp;gt;&amp;lt;/div&amp;gt;
+     &amp;lt;h2 class=&quot;red-header&quot;&amp;gt;Blog Posts&amp;lt;/h2&amp;gt;
+     &amp;lt;ul class=&quot;post-list&quot;&amp;gt;
+         &amp;lt;li&amp;gt;
+             &amp;lt;h3&amp;gt;Hi&amp;lt;/h3&amp;gt;
+         &amp;lt;/li&amp;gt;
+     &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Zachary Montgomery</name></author><category term="things" /><category term="stuff" /><category term="cms" /><summary type="html">This is a test of the CMS editor, and various features surrounding the blog’s functionality.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bookerycommunity.com//uploads/zach.png" /><media:content medium="image" url="https://bookerycommunity.com//uploads/zach.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
